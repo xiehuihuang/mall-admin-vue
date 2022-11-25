@@ -6,7 +6,7 @@ mall-admin-vue 商城后台管理（vue3 + vite3 + element plus）
   + Node.js: 16.13.2
   + 开发工具：Visual Studio Code 版本1.70.2
   + npm: 8.15.0
-  + 技术栈 vue3 + vite3
+  + 技术栈 vue3 + vite3 + element plus
 
 1.2 代码git clone
   + git clone仓库代码：git clone git@github.com:xiehuihuang/mall-admin-vue.git
@@ -28,3 +28,5 @@ npm install  # 安装项目依赖包
 ```
 
 1.6 运行项目：npm run dev
+
+

@@ -15,7 +15,7 @@ export default defineConfig({
   server:{
     proxy:{
       '/api': {
-        target: '127.0.0.1: 8091',   // 需替换自己的Api接口服务网址
+        target: 'http://ceshi13.dishait.cn',   // 需替换自己的Api接口服务网址
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '')
       },
