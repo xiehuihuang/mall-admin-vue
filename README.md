@@ -30,3 +30,4 @@ npm install  # 安装项目依赖包
 1.6 运行项目：npm run dev
 
 
+![商城后台管理](https://user-images.githubusercontent.com/32085450/203961355-981bf406-6816-4b82-b469-7270b458925e.png)
